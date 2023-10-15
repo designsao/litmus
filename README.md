@@ -1,6 +1,6 @@
 # Litmus 🔥
 
-## NEARCON HACKATHON
+## HACKATHON
 
 ## SUMMARY
 
